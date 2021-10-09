@@ -15,7 +15,7 @@ function Recommend() {
                     <RecmmendRanking />
                 </RecommendLeft>
                 <RecommendRight>
-
+                    
                 </RecommendRight>
             </Content>
         </RecommendWraper>

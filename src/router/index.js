@@ -1,9 +1,8 @@
 import React from "react"
+import { Redirect } from "react-router"
 import Discover from "../pages/discover"
 import Mine from '../pages/mine'
 import Friends from "../pages/friends"
-
-import { Redirect } from "react-router"
 import Artlist from "../pages/discover/children-pages/artlist"
 import Recommend from "../pages/discover/children-pages/recommend"
 import Ranking from "../pages/discover/children-pages/ranking"

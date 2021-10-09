@@ -1,2 +1,6 @@
 export const CHANGE_BANNERS = 'recommend/CHANGE_BANNERS'
 export const CHANGE_RECOMMENDS = 'recommend/CHANGE_RECOMMENDS'
+export const CHANGE_NEW_ABLUM = 'recommend/CHANGE_NEW_ABLUM'
+export const CHANGE_UP_RANKING = 'recommend/CHANGE_UP_RANKING'
+export const CHANGE_NEW_RANKING = 'recommend/CHANGE_NEW_RANKING'
+export const CHANGE_ORIGIN_RANKING = 'recommend/CHANGE_ORIGIN_RANKING'

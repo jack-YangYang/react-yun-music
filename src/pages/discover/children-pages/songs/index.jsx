@@ -1,9 +1,10 @@
 import React, { memo } from 'react'
-
+import SongsHeader from './components/header-style'
+import { SongsWrapper } from './style'
 export default memo(function Songs() {
     return (
-        <div>
-            <h2>Songs</h2>
-        </div>
+        <SongsWrapper className="wrap-v2">
+            <SongsHeader />
+        </SongsWrapper>
     )
 })
